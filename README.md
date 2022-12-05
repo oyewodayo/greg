@@ -1,0 +1,1 @@
+This application is a simple but powerful commandline tools to search for words in a file implemented with Rustlang
